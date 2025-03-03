@@ -1,16 +1,44 @@
-<<<<<<< HEAD
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
 # Astuto-frontend-assignment
->>>>>>> 0283b4ec98b0f5c83a0dbfc2d6527414dc5217ce
+
+## 📌 Objective
+The goal of this project is to **develop a configurable JSON-driven table UI** in React using `Material React Table v2`.
+
+---
+
+## 🚀 Features Implemented
+✅ **Configurable Table** using JSON schema  
+✅ **Material React Table v2** for UI implementation  
+✅ **Search Filter for Name**  
+✅ **Multi-Select Filter for Role**  
+✅ **Sorting for Age** (ascending & descending)  
+✅ **Pagination for Data Navigation**  
+✅ **Styled using Material-UI**  
+
+---
+
+How to oprn and run the project
+
+---
+
+Step - 1:
+git clone https://github.com/mr-banner/Astuto-frontend-assignment.git
+cd Astuto-frontend-assignment
+
+Step - 2:
+npm install
+
+step-3:
+npm run dev
+
+---
+
+🛠 Technologies Used
+React.js (Vite) 🚀
+Material UI (Table, Filters, Input)
+Material React Table v2 (Data Table)
+JavaScript (ES6+)
+
+Thank You
+
+
+
